@@ -4,6 +4,6 @@
 
 
 PROGRAMMING LANGUAGES 
--Dart
--JavaScript
+- Dart
+- JavaScript
 - HTML & CSS
